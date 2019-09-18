@@ -19,4 +19,4 @@ Hashes can be used for generating random numbers.
 Comparison:
 * X-Axis - participant, Y-Axis - counter *
 
-![Comparative graph](graph.img)
+![Comparative graph](https://github.com/ConsulNode/random-research/blob/master/graph.jpg)
