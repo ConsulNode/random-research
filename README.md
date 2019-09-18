@@ -17,6 +17,6 @@ Hash of a current for the moment of choice block can be used for random number g
 **Conclusion:**
 Hashes can be used for generating random numbers.
 Comparison:
-* X-Axis - participant, Y-Axis - counter *
+*X-Axis - participant, Y-Axis - counter*
 
 ![Comparative graph](https://github.com/ConsulNode/random-research/blob/master/graph.jpg)
